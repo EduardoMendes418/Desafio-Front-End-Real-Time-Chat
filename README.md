@@ -1,5 +1,8 @@
 # 💬 Real-time Chat Application
 
+<img width="1896" height="936" alt="chat" src="https://github.com/user-attachments/assets/4ea99269-443b-4a38-96ba-2685efbf4466" />
+
+
 Uma aplicação de **chat em tempo real** construída com **React**, **TypeScript**, **Socket.IO** e **Tailwind CSS**, permitindo comunicação instantânea entre múltiplos usuários e salas.
 
 ---
